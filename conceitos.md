@@ -80,4 +80,11 @@ Ex:
 Todos esses níveis de conhecimentos precisam ser representados e manipulados de forma automatica.
 
 
+## NLTK
+> O NLTK é uma biblioteca de ferramentas úteis para a utilização dos princípios de PLN
+
+### Tokenização
+>Separação das palavras, semelhante ao método split()
+
+A partir daqui todas os tipos de string's devem sem considerado como token
 
